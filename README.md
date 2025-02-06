@@ -57,6 +57,14 @@ The Vrinda store wants to create an annual sales dashboard. so that, the owner o
   ## Dashboard
  - <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/Screenshot%202025-02-06%20124512.png">View Sales Dashboard</a>
 
+  ## Project Insights:
+  - Total Sales Growth: $2.3M indicates strong revenue generation.
+  - Net Sales vs Returns: Returns constitute ~8% of total sales.
+  - Customer Lifetime Value: Sean Miller is the most valuable customer.
+  - Regional Sales Performance: The West region (Anna Andreadi) leads.
+  - Shipping Optimization: Standard Class is preferred, but other modes have potential for improvement.
+  - High-Performing Sub-Categories: Phones and Chairs drive a significant portion of sales
+  
   ## Final Conclusion:
   - By focusing on high-performing categories, rewarding loyal customers, optimizing discounts and shipping strategies, and investing in underperforming regions, the business can 
     maximize revenue and customer satisfaction.
