@@ -9,7 +9,7 @@ The Vrinda store wants to create an annual sales dashboard. so that, the owner o
 ## Dataset Used:
   <a href="[https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard](https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/1-%20Raw%20Data%20-%20Business%20Data%20Set.xlsx)">Dataset</a>
 
-# Business Requirements (KPIs):
+## Business Requirements (KPIs):
 1. Overall Metrics:
  - Total Sales
  - Returns
@@ -41,10 +41,10 @@ The Vrinda store wants to create an annual sales dashboard. so that, the owner o
 
 9. Top 5 Sales by States and Category Insight
 
-# Dashboard Interaction:
+## Dashboard Interaction:
   <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/SalesDashboard.xlsx">View Dashboard</a>
 
-# Process:
+## Process:
   - 1- Collecting a Data from Different Sources.
   - 2- Cleaning and Preprocessing Data in Power Query Editor.
   - 3- Data Modeling For Data in Power Pivot.
@@ -54,5 +54,5 @@ The Vrinda store wants to create an annual sales dashboard. so that, the owner o
   - 7- Creation a Dashboard.
   - <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/%D9%85%D8%B4%D8%B1%D9%88%D8%B9.docx">View Project Process</a>
 
-  # Dashboard
+  ## Dashboard
  - <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/Screenshot%202025-02-06%20124512.png">View Sales Dashboard</a>
