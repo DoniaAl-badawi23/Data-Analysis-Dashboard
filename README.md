@@ -60,4 +60,6 @@ The Vrinda store wants to create an annual sales dashboard. so that, the owner o
   ## Final Conclusion:
   - By focusing on high-performing categories, rewarding loyal customers, optimizing discounts and shipping strategies, and investing in underperforming regions, the business can 
     maximize revenue and customer satisfaction.
- 
+
+  ## Sales Improvement Recommendations:
+  - <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/Sales%20Improvment%20Recommendations%20.docx>View Sales Improvement Recommendations</a>
