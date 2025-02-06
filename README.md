@@ -7,7 +7,7 @@ I developed a comprehensive project in Excel, creating multiple dashboards and t
 The Vrinda store wants to create an annual sales dashboard. so that, the owner of the vrinda store can understand their customers and grow more sales.
 
 ## Dataset Used:
-- <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard">Dataset</a>
+  <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard">Dataset</a>
 
 # Business Requirements (KPIs):
 1. Overall Metrics:
@@ -41,4 +41,6 @@ The Vrinda store wants to create an annual sales dashboard. so that, the owner o
 
 9. Top 5 Sales by States and Category Insight
 
+# Dashboard Interaction:
+ 
    
