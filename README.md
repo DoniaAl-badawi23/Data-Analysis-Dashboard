@@ -51,5 +51,5 @@ The Vrinda store wants to create an annual sales dashboard. so that, the owner o
   - 4- Calculation Data by Using Measures and Calculated Columns.
   - 5- Calculation Data by Using Pivot Tables.
   - 6- Wireframe Creation to Design Dashboard.
-  7- Creation a Dashboard.
+  - 7- Creation a Dashboard.
 
