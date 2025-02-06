@@ -62,4 +62,4 @@ The Vrinda store wants to create an annual sales dashboard. so that, the owner o
     maximize revenue and customer satisfaction.
 
   ## Sales Improvement Recommendations:
-  - <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/Sales%20Improvment%20Recommendations%20.docx>View Sales Improvement Recommendations</a>
+  - <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/Sales%20Improvment%20Recommendations%20.docx">View Sales Improvement Recommendations</a>
