@@ -11,13 +11,13 @@ The Vrinda store wants to create an annual sales dashboard. so that, the owner o
 
 # Business Requirements (KPIs):
 1. Overall Metrics:
-Total Sales
-Returns
-Net Sales
-Discounts 
-Cost of Goods Sold (COGS)
-Total Customers
-Total Orders
+ - Total Sales
+ - Returns
+ - Net Sales
+ - Discounts 
+ - Cost of Goods Sold (COGS)
+ - Total Customers
+ - Total Orders
 
 2. Segment Performance:
    -- Segment Sales by Category
