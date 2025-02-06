@@ -20,19 +20,18 @@ The Vrinda store wants to create an annual sales dashboard. so that, the owner o
  - Total Orders
 
 2. Segment Performance:
-   -- Segment Sales by Category
-Sales are categorized into three segments: Consumer, Corporate, and Home Office.
-
+   - Segment Sales by Category
+ 
 3. Sub-Category Performance:
-   -- Total Sales by Sub-Category
+   - Total Sales by Sub-Category
    
 4. Geographical Insights:
-   -- Top 10 Cities by Sales
-   -- Top 10 States by Sales
+   - Top 10 Cities by Sales
+   - Top 10 States by Sales
 
 5. Customer Insights:
-   -- Top 10 Customers by Order Frequency
-   -- Top 10 Customers by Sales
+   - Top 10 Customers by Order Frequency
+   - Top 10 Customers by Sales
    
 6. Sales by Region and Sales Rep Insight
 
