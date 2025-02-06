@@ -45,11 +45,11 @@ The Vrinda store wants to create an annual sales dashboard. so that, the owner o
   <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/SalesDashboard.xlsx">View Dashboard</a>
 
 # Process:
- 1- Collecting a Data from Different Sources.
- 2- Cleaning and Preprocessing Data in Power Query Editor.
- 3- Data Modeling For Data in Power Pivot.
- 4- Calculation Data by Using Measures and Calculated Columns.
- 5- Calculation Data by Using Pivot Tables.
- 6- Wireframe Creation to Design Dashboard.
- 7- Creation a Dashboard.
+  1- Collecting a Data from Different Sources.
+  2- Cleaning and Preprocessing Data in Power Query Editor.
+  3- Data Modeling For Data in Power Pivot.
+  4- Calculation Data by Using Measures and Calculated Columns.
+  5- Calculation Data by Using Pivot Tables.
+  6- Wireframe Creation to Design Dashboard.
+  7- Creation a Dashboard.
 
