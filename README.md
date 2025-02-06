@@ -52,4 +52,4 @@ The Vrinda store wants to create an annual sales dashboard. so that, the owner o
   - 5- Calculation Data by Using Pivot Tables.
   - 6- Wireframe Creation to Design Dashboard.
   - 7- Creation a Dashboard.
-  <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/%D9%85%D8%B4%D8%B1%D9%88%D8%B9.docx">Project Process</a>
+  - <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/%D9%85%D8%B4%D8%B1%D9%88%D8%B9.docx">Click on Project Process</a>
