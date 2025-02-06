@@ -1,4 +1,4 @@
-# Data-Analysis-Dashboard
+# Sales-Dashboard
 I developed a comprehensive project in Excel, creating multiple dashboards and tables to analyze the data. This process involved several stages, including data preprocessing, data cleaning, and data visualization.  
 
 # Vrinda-Store-Data-Analysis(Interactive Dashboard Creation using MS Excel)
