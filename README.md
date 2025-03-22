@@ -52,7 +52,7 @@ Developed a dynamic Excel Sales Dashboard to empower Veranda Store in understand
   - 7- Creation a Dashboard.
 
   ## Dashboard
- - <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/Screenshot%202025-02-06%20124512.png">View Sales Dashboard</a>
+ - <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/Sales%20Dashboard.png"> View Sales Dashboard </a>
 
   ## Strategic Insights:
   - Identified Sean Miller as the highest-value customer, emphasizing retention strategies.
