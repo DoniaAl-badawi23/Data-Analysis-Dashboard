@@ -1,7 +1,8 @@
-# Vrinda Store Data Analysis (Interactive Dashboard using MS Excel)
+# Veranda Store Sales Dashboard: Boosting Growth via Customer & Regional Insights
 
-## Project Objective:
-The Vrinda store wants to create an annual sales dashboard. so that, the owner of the vrinda store can understand their customers and grow more sales.
+## Project Summary:
+
+Developed a dynamic Excel Sales Dashboard to empower Veranda Store in understanding customer behavior, sales trends, and regional performance, enabling data-driven decisions to boost revenue.
 
 ## Dataset Used:
   <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/1-%20Raw%20Data%20-%20Business%20Data%20Set.xlsx">Dataset</a>
@@ -19,8 +20,8 @@ The Vrinda store wants to create an annual sales dashboard. so that, the owner o
 2. Segment Performance:
    - Segment Sales by Category
  
-3. Sub-Category Performance:
-   - Total Sales by Sub-Category
+3. SubCategory Performance:
+   - Total Sales by SubCategory
    
 4. Geographical Insights:
    - Top 10 Cities by Sales
@@ -54,17 +55,19 @@ The Vrinda store wants to create an annual sales dashboard. so that, the owner o
   ## Dashboard
  - <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/Screenshot%202025-02-06%20124512.png">View Sales Dashboard</a>
 
-  ## Project Insights:
-  - Total Sales Growth: $2.3M indicates strong revenue generation.
-  - Net Sales vs Returns: Returns constitute ~8% of total sales.
-  - Customer Lifetime Value: Sean Miller is the most valuable customer.
-  - Regional Sales Performance: The West region (Anna Andreadi) leads.
-  - Shipping Optimization: Standard Class is preferred, but other modes have potential for improvement.
-  - High-Performing Sub-Categories: Phones and Chairs drive a significant portion of sales
-  
+  ## Strategic Insights:
+  - Identified Sean Miller as the highest-value customer, emphasizing retention strategies.
+
+  - Pinpointed Phones and Chairs as top-performing sub-categories, recommending inventory prioritization.
+
+  - Analyzed shipping preferences (Standard Class dominance) and opportunities to optimize delivery costs.
+    
   ## Final Conclusion:
   - By focusing on high-performing categories, rewarding loyal customers, optimizing discounts and shipping strategies, and investing in underperforming regions, the business can 
     maximize revenue and customer satisfaction.
 
-  ## Sales Improvement Recommendations:
+  ## Actionable Recommendations:
+  
+  - Proposed focusing on high-margin categories, improving underperforming regions, refining discount strategies, and enhancing shipping efficiency to increase profitability.:
+  
   - <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/Sales%20Improvment%20Recommendations%20.docx">View Sales Improvement Recommendations</a>
