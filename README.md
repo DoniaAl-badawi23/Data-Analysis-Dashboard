@@ -40,7 +40,7 @@ Developed a dynamic Excel Sales Dashboard to empower Veranda Store in understand
 9. Top 5 Sales by States and Category Insight
 
 ## Dashboard Interaction:
-  <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/SalesDashboard%20(2).xlsx">View Dashboard</a>
+  <a href="https://github.com/DoniaAl-badawi23/Data-Analysis-Dashboard/blob/main/Interactive%20Sales%20Dashboard.xlsx">View Dashboard</a>
 
 ## Process:
   - 1- Collecting a Data from Different Sources.
